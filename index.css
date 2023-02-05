@@ -79,8 +79,13 @@ color: rgb(158, 26, 26);
 }
 
 .calculator.dark button.btn-operator{
-    background-color: ;
-    color: ;
+    background-color: #2e1f39;
+    color: #aa00a4;
+}
+
+.calculator.dark button.btn-equal{
+    background-color: #223323;
+    color: #ffffff;
 }
 
 .theme-toggler{
